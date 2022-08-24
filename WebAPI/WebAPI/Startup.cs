@@ -36,7 +36,7 @@ namespace WebAPI
                 });
 
             services.AddDbContext<PaymentDetailContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
+            options.UseNpgsql(Configuration.GetConnectionString("DevConnection")));
 
             services.AddCors();
 
