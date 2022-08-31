@@ -12,21 +12,3 @@ F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAP
 F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
 F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
 F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
-C:\repo\Payments\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\repo\Payments\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
-C:\repo\Payments\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
-C:\repo\Payments\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
-C:\repo\Payments\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
-C:\repo\Payments\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
-C:\repo\Payments\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.AssemblyReference.cache
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
-C:\repo\Payments\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
