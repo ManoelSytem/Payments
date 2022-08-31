@@ -24,6 +24,8 @@ namespace WebAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<PaymentDetail>>> GetPaymentDetails()
         {
+            //Desenvolvimento necessário desenvolvimento fluxo interno. 
+
             return await _context.PaymentDetails.ToListAsync();
         }
         
