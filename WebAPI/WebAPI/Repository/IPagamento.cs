@@ -5,6 +5,7 @@ namespace WebAPI.Repository
 {
     public interface IPagamento
     {
-        Task<Object> ObterPagamentoId();
+        Task<Object> ObterPorId(Guid id);
+        Task<Object> DeletePorId(Guid id);
     }
 }
